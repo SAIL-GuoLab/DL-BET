@@ -14,6 +14,6 @@ Deep Learning based Brain Extraction Tool
 4. Clone this repository.
 
 ### Usage
-1. Save training, validation, and test date to a directory called 'dataset'. A randomized 80-10-10 split is suggested.
+1. Save training, validation, and test date to a directory called 'dataset'. A randomized 80-10-10 split is suggested. Define folder paths in configs_settings.ini.
 2. Run 'python3 DL-BET.py' to begin training model.
 3. Run 'python3 DL-BET_test.py' after training has completed to generate test outputs, saved to 'results'.
