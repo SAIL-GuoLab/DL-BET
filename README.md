@@ -8,11 +8,8 @@ Deep Learning based Brain Extraction Tool
 
 ## Brain Mask Generation
 ### Installation
-1. Create and activate a conda environment: 
-    `conda create --name DL_Bet`  
-    `conda activate DL_Bet`
-2. Install PyTorch. Visit https://pytorch.org/get-started/locally/ and select your OS, package manager and CUDA version. Input the suggested line in your conda environment. It should look like this: 
-    `conda install pytorch torchvision cudatoolkit=10.0 -c pytorch`
+1. Create and activate a conda environment.
+2. Install PyTorch. Visit https://pytorch.org/get-started/locally/ for installation details.
 3. Install other required packages.
 4. Clone this repository.
 
